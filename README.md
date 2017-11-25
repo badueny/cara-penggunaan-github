@@ -1,6 +1,11 @@
 # Cara penggunaan github
 Cara penggunaan github untuk berkolaborasi mengelola pekerjaan
 
+*** Install git pada OS PC/Laptop Anda ***
+windows : https://git-scm.com/download/win
+Linux   : https://git-scm.com/download/linux
+Mac OS  : https://git-scm.com/download/mac
+
 ### 1. git clone
 
 Perintah "**git clone**" digunakan untuk mengunduh code yang ada pada repository.
